@@ -2,7 +2,7 @@
 It is said that logic is used to understand software and hardware. Propositional logic is statement or argument that is in declarative form, which may be answered by true and false only. The logical operators are the negation (NOT, opposite of the value), conjunction (AND, only true when all values are true), disjunction (OR, only false when all values are false), exclusive or (XOR, only true if only one value of all values are true), conditional (consists of a condition and a conclusion), and biconditional (iff, only true when all values have the same value regardless if it is true or false).
 
 # Week 2
-The logic gates and their corresponding Truth Table values were discussed. The OR, AND, NOR, and XOR
+Compound propositions are English sentences turned into logical statements. Logical equivalences have compound propositions that holds true for all cases. Tautology gives true results regardless of the value, while contradiction gives false results regardless of the values.
 
 # Week 3
 The formal verification is proving arguments. It can be software or hardware. There are six formal verification methods. 3 of them were discussed this week: Direct Proof, Proof by Contraposition, Vacuous and Trivial Proof.
