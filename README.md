@@ -1,3 +1,6 @@
+#My DISMATH Portfolio.
+A pile of the weekly insights which registered on my mind.
+
 # Week 1
 It is said that logic is used to understand software and hardware. Propositional logic is statement or argument that is in declarative form, which may be answered by true and false only. The logical operators are the negation (NOT, opposite of the value), conjunction (AND, only true when all values are true), disjunction (OR, only false when all values are false), exclusive or (XOR, only true if only one value of all values are true), conditional (consists of a condition and a conclusion), and biconditional (iff, only true when all values have the same value regardless if it is true or false).
 
